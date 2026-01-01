@@ -1,4 +1,4 @@
-##EduFuture 2024 Annual Report 🌍🎓## 
+# EduFuture 2024 Annual Report 🌍🎓
 
 A modern, responsive single-page annual report website for the EduFuture nonprofit organization. Built with HTML, Tailwind CSS, and lightweight JavaScript, this page showcases the organization’s mission, impact, programs, and financial transparency in an engaging, visually rich format.
 
